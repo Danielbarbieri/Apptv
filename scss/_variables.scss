@@ -7,10 +7,10 @@ $gray:#f2f3f5;
 $dark: #212329;
 $black: #000;
 $white: #fff;
-$btn-hover: rgb(253, 0, 219); 
+$btn-hover: rgb(255, 0, 0); 
 
-$primary-gradient: linear-gradient( 25deg, rgb(0, 4, 255) 0%, rgb(255, 0, 221) 95%);
-$primary-gradient-alt: linear-gradient( 205deg, rgb(0, 4, 255) 0%, rgb(255, 0, 221) 95%);
+$primary-gradient: linear-gradient( 25deg, rgb(0, 4, 255) 0%, rgb(255, 0, 0) 95%);
+$primary-gradient-alt: linear-gradient( 205deg, rgb(0, 4, 255) 0%, rgb(255, 0, 0) 95%);
 $secondary-gradient: linear-gradient( 6deg, rgb(0, 4, 255) 0%, rgb(35,227,238) 100%);
 $secondary-gradient-alt: linear-gradient( 186deg, rgb(0, 4, 255) 0%, rgb(35,227,238) 100%);
 $primary-shadow: 0px 35px 46px 0px rgba(172, 189, 199, 0.28);
