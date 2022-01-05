@@ -115,6 +115,12 @@ h6, .h6 {
   padding: 15px 85px;
 }
 
+.lottie {
+  position: fixed;
+  right: 0;
+  top: 580px;
+}
+
 body {
   background-color: #fff;
   overflow-x: hidden;
